@@ -1,3 +1,6 @@
+## What is it
+This is a simple prototype using Reason and ReasonReact.
+It demonstrates how to work with React context and reducer. 
 
 ## Run
 
